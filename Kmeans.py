@@ -1,5 +1,5 @@
 #!/usr/bin/python
- 
+#-*- coding: utf-8 -*-
 from __future__ import with_statement
 import cPickle as pickle
 from matplotlib import pyplot
